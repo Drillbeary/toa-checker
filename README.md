@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Toa-Gear checker
+A runelite plugin to check what Gear people are wearing in TOA
